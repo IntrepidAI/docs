@@ -3,7 +3,7 @@ title: Introduction
 index: 0
 ---
 
-# Meet Spacedrive
+# Meet Intrepid Studio 
 
 ![image](/app-ui-explorer.webp)
 
