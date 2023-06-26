@@ -7,7 +7,7 @@ index: 0
 
 ![image](/app-ui-explorer.webp)
 
-Intrepid Studio is a cross-platform Robotics Application development platform.
+Intrepid Studio is a cross-platform Robotics Application Development studio.
 
 <Notice 
 	type="note"
